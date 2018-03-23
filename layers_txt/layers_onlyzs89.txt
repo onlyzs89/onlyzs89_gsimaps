@@ -1,10 +1,37 @@
 {
   "layers": [
     {
-      "type": "Layer",
-      "id": "aaa",
-      "title": "aaa",
-      "url": "./geojson/saitama.geojson"
+      "type": "LayerGroup",
+      "title": "関東ふれあいの道",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "tokyo",
+          "title": "東京都",
+          "url": "./geojson/kantou/tokyo.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "saitama",
+          "title": "埼玉県",
+          "url": "./geojson/kantou/saitama.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "tiba",
+          "title": "千葉県",
+          "url": "./geojson/kantou/tiba.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "kanagawa",
+          "title": "神奈川県",
+          "url": "./geojson/kantou/kanagawa.geojson"
+        }
+        
+      ]
     }
   ]
 }
