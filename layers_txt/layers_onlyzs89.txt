@@ -4,7 +4,7 @@
       "type": "Layer",
       "id": "aaa",
       "title": "aaa",
-      "url": "./geojson/kantou/saitama.json"
+      "url": "./geojson/saitama.json"
     }
   ]
 }
