@@ -1,0 +1,10 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "test",
+      "title": "テスト",
+      "url": "../geojson/test.geojson"
+    }
+  ]
+}
