@@ -2,8 +2,8 @@
   "layers": [
     {
       "type": "Layer",
-      "id": "tokyo",
-      "title": "東京都",
+      "id": "aaa",
+      "title": "aaa",
       "url": "./geojson/kantou/saitama.json"
     }
   ]
