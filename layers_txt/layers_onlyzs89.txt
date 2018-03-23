@@ -29,8 +29,9 @@
           "id": "kanagawa",
           "title": "神奈川県",
           "url": "./geojson/kantou/kanagawa.json",
-        },
+        }
         
+      ]
     }
   ]
 }
