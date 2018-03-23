@@ -3,7 +3,6 @@
     {
       "type": "LayerGroup",
       "title": "新着・注目",
-      "iconUrl": "./image/system/folder_new.png",
       "toggleall": false,
       "entries": [
         {

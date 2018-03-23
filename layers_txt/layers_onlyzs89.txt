@@ -3,7 +3,7 @@
     {
       "type": "LayerGroup",
       "title": "関東ふれあいの道",
-      "toggleall": true,
+      "toggleall": false,
       "iconUrl": "./image/system/folder_new.png",
       "entries": [
         {
