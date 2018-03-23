@@ -10,25 +10,25 @@
           "type": "Layer",
           "id": "kanagawa",
           "title": "東京都",
-          "url": "./geojson/kantou/tokyo.json",
+          "url": "./geojson/kantou/tokyo.json"
         },
         {
           "type": "Layer",
           "id": "kanagawa",
           "title": "埼玉県",
-          "url": "./geojson/kantou/saitama.json",
+          "url": "./geojson/kantou/saitama.json"
         },
         {
           "type": "Layer",
           "id": "kanagawa",
           "title": "千葉県",
-          "url": "./geojson/kantou/tiba.json",
+          "url": "./geojson/kantou/tiba.json"
         },
         {
           "type": "Layer",
           "id": "kanagawa",
           "title": "神奈川県",
-          "url": "./geojson/kantou/kanagawa.json",
+          "url": "./geojson/kantou/kanagawa.json"
         }
         
       ]
