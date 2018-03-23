@@ -1,18 +1,10 @@
 {
   "layers": [
     {
-      "type": "LayerGroup",
-      "title": "関東ふれあいの道",
-      "toggleall": false,
-      "iconUrl": "./image/system/folder_new.png",
-      "entries": [
-        {
-          "type": "Layer",
-          "id": "kanagawa",
-          "title": "東京都",
-          "url": "./geojson/kantou/tokyo.json"
-        }
-      ]
+      "type": "Layer",
+      "id": "tokyo",
+      "title": "東京都",
+      "url": "./geojson/kantou/tokyo.json"
     }
   ]
 }
