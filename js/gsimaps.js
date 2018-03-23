@@ -67,7 +67,7 @@ CONFIG.layerBaseFolderSYS = "GSI.MAP.BASE";
 CONFIG.layers = [
 	{
 		"top":true,
-		"url":'./layers_txt/layer_onlyzs89.txt'
+		"url":'./layers_txt/layers_onlyzs89.txt'
 	},
   {
 		//"top":true,
