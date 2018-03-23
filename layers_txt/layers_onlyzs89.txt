@@ -4,7 +4,7 @@
       "type": "Layer",
       "id": "test",
       "title": "テスト",
-      "url": "../geojson/test.geojson"
+      "url": "./geojson/test.geojson"
     }
   ]
 }
