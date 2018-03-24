@@ -32,6 +32,20 @@
         }
         
       ]
+    },
+    {
+    "type": "LayerGroup",
+      "title": "東海自然歩道",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "tokyo",
+          "title": "静岡",
+          "url": "./geojson/toukai/shizuoka.geojson"
+        }
+      ]
     }
   ]
 }
