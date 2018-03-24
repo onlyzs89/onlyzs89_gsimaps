@@ -41,7 +41,7 @@
       "entries": [
         {
           "type": "Layer",
-          "id": "tokyo",
+          "id": "shizuoka",
           "title": "静岡",
           "url": "./geojson/toukai/shizuoka.geojson"
         }
