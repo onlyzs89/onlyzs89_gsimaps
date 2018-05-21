@@ -44,6 +44,12 @@
           "id": "shizuoka",
           "title": "静岡",
           "url": "./geojson/toukai/shizuoka.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "yamanashi",
+          "title": "山梨",
+          "url": "./geojson/toukai/yamanashi.geojson"
         }
       ]
     }
