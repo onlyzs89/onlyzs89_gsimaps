@@ -29,6 +29,12 @@
           "id": "kanagawa",
           "title": "神奈川県",
           "url": "./geojson/kantou/kanagawa.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "tochigi",
+          "title": "栃木県",
+          "url": "./geojson/kantou/tochigi.geojson"
         }
         
       ]
