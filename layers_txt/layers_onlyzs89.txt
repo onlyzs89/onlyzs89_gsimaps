@@ -56,6 +56,12 @@
           "id": "yamanashi",
           "title": "山梨",
           "url": "./geojson/toukai/yamanashi.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "kanagawa2",
+          "title": "神奈川",
+          "url": "./geojson/toukai/kanagawa.geojson"
         }
       ]
     }
