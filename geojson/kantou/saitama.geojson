@@ -1328,10 +1328,8 @@
                     ]
                 ]
             }
-        }
-    ],
-    
-    [
+        },
+        
         {
             "type": "Feature",
             "properties": {
