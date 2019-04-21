@@ -34,6 +34,33 @@
       ]
     },
     {
+    "type": "LayerGroup",
+      "title": "2016",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "201603",
+          "title": "3月",
+          "url": "./geojson/2016/03.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201602",
+          "title": "2月",
+          "url": "./geojson/2016/02.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201601",
+          "title": "1月",
+          "url": "./geojson/2016/01.geojson"
+        }
+
+      ]
+    }
+    {
       "type": "LayerGroup",
       "title": "2015年",
       "toggleall": false,
