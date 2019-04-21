@@ -1,0 +1,34 @@
+{
+  "layers": [
+    {
+      "type": "LayerGroup",
+      "title": "2019年",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "201904",
+          "title": "4月",
+          "url": "./geojson/2019/04.geojson"
+        }
+
+      ]
+    },
+    {
+    "type": "LayerGroup",
+      "title": "昔々",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "old",
+          "title": "昔々",
+          "url": "./geojson/old/old.geojson"
+        }
+
+      ]
+    }
+  ]
+}
