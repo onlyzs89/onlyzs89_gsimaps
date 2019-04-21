@@ -17,6 +17,18 @@
           "id": "201903",
           "title": "3月",
           "url": "./geojson/2019/03.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201902",
+          "title": "2月",
+          "url": "./geojson/2019/02.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201901",
+          "title": "1月",
+          "url": "./geojson/2019/01.geojson"
         }
 
       ]
