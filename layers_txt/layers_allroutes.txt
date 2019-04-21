@@ -41,6 +41,30 @@
       "entries": [
         {
           "type": "Layer",
+          "id": "201708",
+          "title": "8月",
+          "url": "./geojson/2017/08.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201707",
+          "title": "7月",
+          "url": "./geojson/2017/07.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201706",
+          "title": "6月",
+          "url": "./geojson/2017/06.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201705",
+          "title": "5月",
+          "url": "./geojson/2017/05.geojson"
+        },
+        {
+          "type": "Layer",
           "id": "201704",
           "title": "4月",
           "url": "./geojson/2017/04.geojson"
