@@ -35,6 +35,32 @@
     },
     {
     "type": "LayerGroup",
+      "title": "2018年",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "201803",
+          "title": "3月",
+          "url": "./geojson/2018/03.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201802",
+          "title": "2月",
+          "url": "./geojson/2018/02.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201801",
+          "title": "1月",
+          "url": "./geojson/2018/01.geojson"
+        }
+      ]
+    },
+    {
+    "type": "LayerGroup",
       "title": "2017年",
       "toggleall": false,
       "iconUrl": "./image/system/folder_new.png",
