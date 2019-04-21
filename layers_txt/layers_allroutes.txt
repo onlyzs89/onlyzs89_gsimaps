@@ -35,10 +35,46 @@
     },
     {
     "type": "LayerGroup",
-      "title": "2016",
+      "title": "2016年",
       "toggleall": false,
       "iconUrl": "./image/system/folder_new.png",
       "entries": [
+        {
+          "type": "Layer",
+          "id": "201612",
+          "title": "12月",
+          "url": "./geojson/2016/12.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201611",
+          "title": "11月",
+          "url": "./geojson/2016/11.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201610",
+          "title": "10月",
+          "url": "./geojson/2016/10.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201609",
+          "title": "9月",
+          "url": "./geojson/2016/09.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201608",
+          "title": "8月",
+          "url": "./geojson/2016/08.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201607",
+          "title": "7月",
+          "url": "./geojson/2016/07.geojson"
+        },
         {
           "type": "Layer",
           "id": "201606",
