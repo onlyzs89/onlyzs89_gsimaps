@@ -41,6 +41,36 @@
       "entries": [
         {
           "type": "Layer",
+          "id": "201511",
+          "title": "11月",
+          "url": "./geojson/2015/11.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201510",
+          "title": "10月",
+          "url": "./geojson/2015/10.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201509",
+          "title": "9月",
+          "url": "./geojson/2015/09.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201508",
+          "title": "8月",
+          "url": "./geojson/2015/08.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "201507",
+          "title": "7月",
+          "url": "./geojson/2015/07.geojson"
+        },
+        {
+          "type": "Layer",
           "id": "201506",
           "title": "6月",
           "url": "./geojson/2015/06.geojson"
