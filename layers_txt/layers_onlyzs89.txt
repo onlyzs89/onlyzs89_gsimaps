@@ -36,7 +36,7 @@
           "title": "栃木県",
           "url": "./geojson/kantou/tochigi.geojson"
         }
-        
+
       ]
     },
     {
@@ -62,6 +62,20 @@
           "id": "kanagawa2",
           "title": "神奈川",
           "url": "./geojson/toukai/kanagawa.geojson"
+        }
+      ]
+    },
+    {
+    "type": "LayerGroup",
+      "title": "近畿自然歩道",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "kinki",
+          "title": "近畿",
+          "url": "./geojson/kinki/all.geojson"
         }
       ]
     }
