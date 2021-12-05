@@ -8,6 +8,12 @@
       "entries": [
         {
           "type": "Layer",
+          "id": "202112",
+          "title": "12月",
+          "url": "./geojson/2021/12.geojson"
+        },
+        {
+          "type": "Layer",
           "id": "202111",
           "title": "11月",
           "url": "./geojson/2021/11.geojson"
