@@ -24908,9 +24908,9 @@
         },
 
         {
-            "type": "20221022-23",
+            "type": "Feature",
             "properties": {
-                "name": "track",
+                "name": "20221022-23",
                 "time": "2022-10-21T23:10:46Z",
                 "coordTimes": [
                     "2022-10-21T23:10:46Z",
