@@ -1,180 +1,179 @@
 {
   "layers": [
     {
-    "type": "LayerGroup",
-    "title": "2023年",
-    "toggleall": false,
-    "iconUrl": "./image/system/folder_new.png",
-    "entries": [
-      {
-        "type": "Layer",
-        "id": "202301",
-        "title": "01月",
-        "url": "./geojson/2023/01.geojson"
-      }
-    ]
-  },
-
-  {
-    "type": "LayerGroup",
-    "title": "2022年",
-    "toggleall": false,
-    "iconUrl": "./image/system/folder_new.png",
-    "entries": [
-      {
-        "type": "Layer",
-        "id": "202212",
-        "title": "12月",
-        "url": "./geojson/2022/12.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202211",
-        "title": "11月",
-        "url": "./geojson/2022/11.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202210",
-        "title": "10月",
-        "url": "./geojson/2022/10.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202209",
-        "title": "09月",
-        "url": "./geojson/2022/09.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202208",
-        "title": "08月",
-        "url": "./geojson/2022/08.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202207",
-        "title": "07月",
-        "url": "./geojson/2022/07.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202206",
-        "title": "06月",
-        "url": "./geojson/2022/06.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202205",
-        "title": "05月",
-        "url": "./geojson/2022/05.geojson"
-      },
-            {
-        "type": "Layer",
-        "id": "202204",
-        "title": "04月",
-        "url": "./geojson/2022/04.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202203",
-        "title": "03月",
-        "url": "./geojson/2022/03.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202202",
-        "title": "02月",
-        "url": "./geojson/2022/02.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202201",
-        "title": "01月",
-        "url": "./geojson/2022/01.geojson"
-      }
-    ]
-  },
-  {
-    "type": "LayerGroup",
-    "title": "2021年",
-    "toggleall": false,
-    "iconUrl": "./image/system/folder_new.png",
-    "entries": [
-      {
-        "type": "Layer",
-        "id": "202112",
-        "title": "12月",
-        "url": "./geojson/2021/12.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202111",
-        "title": "11月",
-        "url": "./geojson/2021/11.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202110",
-        "title": "10月",
-        "url": "./geojson/2021/10.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202109",
-        "title": "09月",
-        "url": "./geojson/2021/09.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202108",
-        "title": "08月",
-        "url": "./geojson/2021/08.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202107",
-        "title": "07月",
-        "url": "./geojson/2021/07.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202106",
-        "title": "06月",
-        "url": "./geojson/2021/06.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202105",
-        "title": "05月",
-        "url": "./geojson/2021/05.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202104",
-        "title": "04月",
-        "url": "./geojson/2021/04.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202103",
-        "title": "03月",
-        "url": "./geojson/2021/03.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202102",
-        "title": "02月",
-        "url": "./geojson/2021/02.geojson"
-      },
-      {
-        "type": "Layer",
-        "id": "202101",
-        "title": "01月",
-        "url": "./geojson/2021/01.geojson"
-      }
-    ]
-  },
+      "type": "LayerGroup",
+      "title": "2023年",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "202301",
+          "title": "01月",
+          "url": "./geojson/2023/01.geojson"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2022年",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "202212",
+          "title": "12月",
+          "url": "./geojson/2022/12.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202211",
+          "title": "11月",
+          "url": "./geojson/2022/11.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202210",
+          "title": "10月",
+          "url": "./geojson/2022/10.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202209",
+          "title": "09月",
+          "url": "./geojson/2022/09.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202208",
+          "title": "08月",
+          "url": "./geojson/2022/08.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202207",
+          "title": "07月",
+          "url": "./geojson/2022/07.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202206",
+          "title": "06月",
+          "url": "./geojson/2022/06.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202205",
+          "title": "05月",
+          "url": "./geojson/2022/05.geojson"
+        },
+              {
+          "type": "Layer",
+          "id": "202204",
+          "title": "04月",
+          "url": "./geojson/2022/04.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202203",
+          "title": "03月",
+          "url": "./geojson/2022/03.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202202",
+          "title": "02月",
+          "url": "./geojson/2022/02.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202201",
+          "title": "01月",
+          "url": "./geojson/2022/01.geojson"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
+      "title": "2021年",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "202112",
+          "title": "12月",
+          "url": "./geojson/2021/12.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202111",
+          "title": "11月",
+          "url": "./geojson/2021/11.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202110",
+          "title": "10月",
+          "url": "./geojson/2021/10.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202109",
+          "title": "09月",
+          "url": "./geojson/2021/09.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202108",
+          "title": "08月",
+          "url": "./geojson/2021/08.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202107",
+          "title": "07月",
+          "url": "./geojson/2021/07.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202106",
+          "title": "06月",
+          "url": "./geojson/2021/06.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202105",
+          "title": "05月",
+          "url": "./geojson/2021/05.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202104",
+          "title": "04月",
+          "url": "./geojson/2021/04.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202103",
+          "title": "03月",
+          "url": "./geojson/2021/03.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202102",
+          "title": "02月",
+          "url": "./geojson/2021/02.geojson"
+        },
+        {
+          "type": "Layer",
+          "id": "202101",
+          "title": "01月",
+          "url": "./geojson/2021/01.geojson"
+        }
+      ]
+    },
     {
       "type": "LayerGroup",
       "title": "2021年",
