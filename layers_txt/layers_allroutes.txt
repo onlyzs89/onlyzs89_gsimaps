@@ -2,6 +2,20 @@
   "layers": [
     {
       "type": "LayerGroup",
+      "title": "2024年",
+      "toggleall": false,
+      "iconUrl": "./image/system/folder_new.png",
+      "entries": [
+        {
+          "type": "Layer",
+          "id": "202401",
+          "title": "01月",
+          "url": "./geojson/2024/01.geojson"
+        }
+      ]
+    },
+    {
+      "type": "LayerGroup",
       "title": "2023年",
       "toggleall": false,
       "iconUrl": "./image/system/folder_new.png",
