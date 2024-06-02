@@ -14,6 +14,12 @@
         },
         {
           "type": "Layer",
+          "id": "202406",
+          "title": "06月",
+          "url": "./geojson/2024/06.geojson"
+        },
+        {
+          "type": "Layer",
           "id": "202404",
           "title": "04月",
           "url": "./geojson/2024/04.geojson"
